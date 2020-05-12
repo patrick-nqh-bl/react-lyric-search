@@ -11,4 +11,9 @@
   > https://www.youtube.com/watch?v=ktPocNL0qGg
 
 - Musixmatch Developer Site:
+
   > https://developer.musixmatch.com/
+
+- Link deployed on Netlify:
+
+> https://affectionate-murdock-870bc0.netlify.app/
